@@ -8,7 +8,7 @@ Live Demo
 
 Repository
 
-🔗 Source Code (https://github.com/alexybnz/etch-a-sketch)
+🔗 [Source Code](https://github.com/alexybnz/etch-a-sketch)
 
 Features
 Draw by hovering over grid squares
