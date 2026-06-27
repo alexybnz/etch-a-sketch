@@ -4,7 +4,7 @@ A simple, interactive drawing application built with HTML, CSS, and JavaScript a
 
 ## Live Demo
 
-🔗 [Live Preview]()
+🔗 [Live Preview](https://alexybnz.github.io/etch-a-sketch/)
 
 ## Repository
 
