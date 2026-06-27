@@ -1,0 +1,44 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.size {
+  padding: 10px;
+  font-size: 18px;
+}
+
+.rainbow {
+  width: 20px;
+  height: 20px;
+}
+
+.text {
+  font-size: 20px;
+}
+
+.option{
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 40px;
+}
+.container {
+  display: flex;
+  border: 1px solid black;
+  flex-wrap: wrap;
+  width: 640px;
+  height: 640px;
+  justify-self: center;
+  margin-top: 50px;
+}
+
+.block_container {
+  border: 1px solid black;
+  display: flex;
+}
+
+.block {
+  opacity: 0.5;
+}
